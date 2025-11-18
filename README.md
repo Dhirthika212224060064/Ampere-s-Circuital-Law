@@ -4,6 +4,7 @@
  When an electric current flows through a conductor, it generates a magnetic field around it. Understanding and calculating this magnetic field is essential in electromagnetics and electrical engineering.
 
 Ampere’s Circuital Law provides a fundamental relationship between electric current and the magnetic field it produces. It states that:
+
 <img width="364" height="154" alt="image" src="https://github.com/user-attachments/assets/80b6bb25-1feb-4a53-989e-202190b09396" />
 
 Where:
